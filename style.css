@@ -2338,7 +2338,7 @@ html {
 }
 
 .pdf-viewer-section h2 {
-    color: #007BFF;
+    color: var(--orange);
     margin-bottom: 10px;
 }
 
